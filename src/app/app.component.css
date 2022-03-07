@@ -1,5 +1,5 @@
 .container-fluid {
-    background: linear-gradient(rgba(35, 43, 85, 0.75), rgba(35, 43, 85, 0.95)), url(https://res.cloudinary.com/dxfq3iotg/image/upload/v1564049481/bg-clouds.jpg) no-repeat center center;
+    background: linear-gradient(rgba(35, 43, 85, 0.75), rgba(35, 43, 85, 0.95)), url(../assets/img/bg.jfif) no-repeat center center;
     background-size: cover;
     width: 100%;
     padding-top: 60px;
